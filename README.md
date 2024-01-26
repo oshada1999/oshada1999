@@ -1,4 +1,4 @@
-<img src ="https://learnwithshikha.com/wp-content/uploads/2021/01/web-deve.png">
+<img src ="[https://learnwithshikha.com/wp-content/uploads/2021/01/web-deve.png](https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=996&t=st=1706249788~exp=1706250388~hmac=60c965c71246548c4e65f88b08b3533d9f59450c0c79c49ff082db77b42282e4)">
 <h1 align="center">Hi 👋, I'm Chathura Oshada</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
