@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Chathura Hewage</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
+<p align='center'>
+<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<hr>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oshada1999&label=Profile%20views&color=0e75b6&style=flat" alt="oshada1999" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oshada1999" alt="oshada1999" /></a> </p>
