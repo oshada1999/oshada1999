@@ -45,4 +45,4 @@
 </a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oshada1999&" alt="oshada1999" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oshada1999&" alt="oshada1999" /></p>
